@@ -1,0 +1,49 @@
+.container{
+    width: 1000px;
+    height: 150px;
+    background-color: black;
+    position: absolute;
+    left: 180px;
+    top: 20px;
+}
+h1{
+    position: absolute;
+    left: 370px;
+    top: 10px;
+    font-family: sans-serif;
+    color: white;
+}
+h5{
+    position: absolute;
+    left: 410px;
+    top: 60px;
+    font-family: sans-serif;
+    font-size: 20px;
+    color: white;
+}
+.containerjan input{
+    width: 300px;
+    height: 50px;
+    position: absolute;
+    left: 500px;
+    top: 200px;
+    outline: none;
+    text-align: center;
+    background-color: crimson;
+}
+.containerjan input:hover{
+    background:white;
+    color: crimson;
+}
+.list-group{
+    width: 200px;
+    height: 200px;
+    /* background-color: rgb(158, 146, 146); */
+    position: absolute;
+    left: 580px;
+    top: 260px;
+}
+.list-group .list-item{
+    margin: 20px;
+    list-style-type: none;
+}
